@@ -10,7 +10,7 @@ keywords = ["cli", "ansi", "color", "formatting", "text"]
 categories = ["command-line-utilities", "text-processing"]
 readme = "README.md"
 include = [
-    "**/*.rs",
+    "src/**.rs",
     "LICENSE",
     "Cargo.toml",
 ]
