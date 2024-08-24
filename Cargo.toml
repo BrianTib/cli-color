@@ -1,0 +1,13 @@
+[package]
+name = "cli-color"
+version = "1.0.0"
+edition = "2021"
+authors = ["Brian Tiburcio <bptiburcio@gmail.com>"]
+description = "A CLI tool for outputting text in ANSI format with features like colors, underlining, boldening, and italicizing"
+license = "MIT"
+repository = "https://github.com/briantib/cli-color"
+keywords = ["cli", "ansi", "color", "formatting", "text"]
+categories = ["command-line-utilities", "text-processing"]
+readme = "README.md"
+
+[dependencies]
