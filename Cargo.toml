@@ -9,5 +9,10 @@ repository = "https://github.com/BrianTib/cli-color"
 keywords = ["cli", "ansi", "color", "formatting", "text"]
 categories = ["command-line-utilities", "text-processing"]
 readme = "README.md"
+include = [
+    "**/*.rs",
+    "LICENSE",
+    "Cargo.toml",
+]
 
 [dependencies]
