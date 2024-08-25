@@ -1,4 +1,4 @@
-use cli_color::Colorizer;
+use cli_colors::Colorizer;
 
 fn main() {
     let colorizer = Colorizer::new();
